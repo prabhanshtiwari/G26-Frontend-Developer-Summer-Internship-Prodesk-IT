@@ -1,3 +1,3 @@
 # Output
 
-[Contact Card App](../output.png)
+![Contact Card App](../output.png)
